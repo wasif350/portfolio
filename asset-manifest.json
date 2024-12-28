@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9afc7d.css",
+    "main.js": "/static/js/main.953bb606.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.bd0d6103.chunk.js": "/static/js/64.bd0d6103.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.5fa71c31.chunk.js": "/static/js/769.5fa71c31.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/berkly.jpeg": "/static/media/berkly.bd49a158871a33c65425.jpeg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/meta.jpeg": "/static/media/meta.741cff61360288bd5e6e.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.afb2fb14b568f390b5db.pdf",
+    "static/media/su.png": "/static/media/su.ae952ddbb28ce09cee03.png",
+    "static/media/goj.jpeg": "/static/media/goj.461426a452153a9318f7.jpeg",
+    "static/media/axiom.png": "/static/media/axiom.a5633bb6ff9fbf4888a4.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/gosign.png": "/static/media/gosign.f11725a1f9299f46a2f6.png",
+    "static/media/kurationc.png": "/static/media/kurationc.339723b1de4d9d720b1c.png",
+    "static/media/gdpr.png": "/static/media/gdpr.aea6d0c922dc6b1790f2.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
+    "main.953bb606.js.map": "/static/js/main.953bb606.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.bd0d6103.chunk.js.map": "/static/js/64.bd0d6103.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.5fa71c31.chunk.js.map": "/static/js/769.5fa71c31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9afc7d.css",
+    "static/js/main.953bb606.js"
+  ]
+}
